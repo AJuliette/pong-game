@@ -10,3 +10,13 @@
   top: 50%;
   width: 130px
 }
+
+#restart {
+  display: none;
+  border: 5px tomato solid;
+  font-size 40px;
+  position: absolute;
+  left: 45%;
+  top: 50%;
+  width: 130px
+}
